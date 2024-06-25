@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "statement": "Worry about things.",
+        "dimension": "NEU",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 2,
+        "statement": "Make friends easily.",
+        "dimension": "EXT",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 3,
+        "statement": "Have a vivid imagination.",
+        "dimension": "OPE",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 4,
+        "statement": "Trust others.",
+        "dimension": "AGR",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 5,
+        "statement": "Complete tasks successfully.",
+        "dimension": "CON",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 6,
+        "statement": "Get angry easily.",
+        "dimension": "NEU",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 7,
+        "statement": "Love large parties.",
+        "dimension": "EXT",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 8,
+        "statement": "Believe in the importance of art.",
+        "dimension": "OPE",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 9,
+        "statement": "Use others for my own ends.",
+        "dimension": "AGR",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 10,
+        "statement": "Like to tidy up.",
+        "dimension": "CON",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 11,
+        "statement": "Often feel blue.",
+        "dimension": "NEU",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 12,
+        "statement": "Take charge.",
+        "dimension": "EXT",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 13,
+        "statement": "Experience my emotions intensely.",
+        "dimension": "OPE",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 14,
+        "statement": "Love to help others.",
+        "dimension": "AGR",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 15,
+        "statement": "Keep my promises.",
+        "dimension": "CON",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 16,
+        "statement": "Find it difficult to approach others.",
+        "dimension": "NEU",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 17,
+        "statement": "Am always busy.",
+        "dimension": "EXT",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 18,
+        "statement": "Prefer variety to routine.",
+        "dimension": "OPE",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 19,
+        "statement": "Love a good fight.",
+        "dimension": "AGR",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 20,
+        "statement": "Work hard.",
+        "dimension": "CON",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 21,
+        "statement": "Go on binges.",
+        "dimension": "NEU",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 22,
+        "statement": "Love excitement.",
+        "dimension": "EXT",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 23,
+        "statement": "Love to read challenging material.",
+        "dimension": "OPE",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 24,
+        "statement": "Believe that I am better than others.",
+        "dimension": "AGR",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 25,
+        "statement": "Am always prepared.",
+        "dimension": "CON",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 26,
+        "statement": "Panic easily.",
+        "dimension": "NEU",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 27,
+        "statement": "Radiate joy.",
+        "dimension": "EXT",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 28,
+        "statement": "Tend to vote for liberal political candidates.",
+        "dimension": "OPE",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 29,
+        "statement": "Sympathize with the homeless.",
+        "dimension": "AGR",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 30,
+        "statement": "Jump into things without thinking.",
+        "dimension": "CON",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 31,
+        "statement": "Fear for the worst.",
+        "dimension": "NEU",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 32,
+        "statement": "Feel comfortable around people.",
+        "dimension": "EXT",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 33,
+        "statement": "Enjoy wild flights of fantasy.",
+        "dimension": "OPE",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 34,
+        "statement": "Believe that others have good intentions.",
+        "dimension": "AGR",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 35,
+        "statement": "Excel in what I do.",
+        "dimension": "CON",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 36,
+        "statement": "Get irritated easily.",
+        "dimension": "NEU",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 37,
+        "statement": "Talk to a lot of different people at parties.",
+        "dimension": "EXT",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 38,
+        "statement": "See beauty in things that others might not notice.",
+        "dimension": "OPE",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 39,
+        "statement": "Cheat to get ahead.",
+        "dimension": "AGR",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 40,
+        "statement": "Often forget to put things back in their proper place.",
+        "dimension": "CON",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 41,
+        "statement": "Dislike myself.",
+        "dimension": "NEU",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 42,
+        "statement": "Try to lead others.",
+        "dimension": "EXT",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 43,
+        "statement": "Feel others' emotions.",
+        "dimension": "OPE",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 44,
+        "statement": "Am concerned about others.",
+        "dimension": "AGR",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 45,
+        "statement": "Tell the truth.",
+        "dimension": "CON",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 46,
+        "statement": "Am afraid to draw attention to myself.",
+        "dimension": "NEU",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 47,
+        "statement": "Am always on the go.",
+        "dimension": "EXT",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 48,
+        "statement": "Prefer to stick with things that I know.",
+        "dimension": "OPE",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 49,
+        "statement": "Yell at people.",
+        "dimension": "AGR",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 50,
+        "statement": "Do more than what's expected of me.",
+        "dimension": "CON",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 51,
+        "statement": "Rarely overindulge.",
+        "dimension": "NEU",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 52,
+        "statement": "Seek adventure.",
+        "dimension": "EXT",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 53,
+        "statement": "Avoid philosophical discussions.",
+        "dimension": "OPE",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 54,
+        "statement": "Think highly of myself.",
+        "dimension": "AGR",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 55,
+        "statement": "Carry out my plans.",
+        "dimension": "CON",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 56,
+        "statement": "Become overwhelmed by events.",
+        "dimension": "NEU",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 57,
+        "statement": "Have a lot of fun.",
+        "dimension": "EXT",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 58,
+        "statement": "Believe that there is no absolute right or wrong.",
+        "dimension": "OPE",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 59,
+        "statement": "Feel sympathy for those who are worse off than myself.",
+        "dimension": "AGR",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 60,
+        "statement": "Make rash decisions.",
+        "dimension": "CON",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 61,
+        "statement": "Am afraid of many things.",
+        "dimension": "NEU",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 62,
+        "statement": "Avoid contacts with others.",
+        "dimension": "EXT",
+        "subtype": "1",
+        "math": "-"
+    },
+    {
+        "id": 63,
+        "statement": "Love to daydream.",
+        "dimension": "OPE",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 64,
+        "statement": "Trust what people say.",
+        "dimension": "AGR",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 65,
+        "statement": "Handle tasks smoothly.",
+        "dimension": "CON",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 66,
+        "statement": "Lose my temper.",
+        "dimension": "NEU",
+        "subtype": "2",
+        "math": "+"
+    },
+    {
+        "id": 67,
+        "statement": "Prefer to be alone.",
+        "dimension": "EXT",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 68,
+        "statement": "Do not like poetry.",
+        "dimension": "OPE",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 69,
+        "statement": "Take advantage of others.",
+        "dimension": "AGR",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 70,
+        "statement": "Leave a mess in my room.",
+        "dimension": "CON",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 71,
+        "statement": "Am often down in the dumps.",
+        "dimension": "NEU",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 72,
+        "statement": "Take control of things.",
+        "dimension": "EXT",
+        "subtype": "3",
+        "math": "+"
+    },
+    {
+        "id": 73,
+        "statement": "Rarely notice my emotional reactions.",
+        "dimension": "OPE",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 74,
+        "statement": "Am indifferent to the feelings of others.",
+        "dimension": "AGR",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 75,
+        "statement": "Break rules.",
+        "dimension": "CON",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 76,
+        "statement": "Only feel comfortable with friends.",
+        "dimension": "NEU",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 77,
+        "statement": "Do a lot in my spare time.",
+        "dimension": "EXT",
+        "subtype": "4",
+        "math": "+"
+    },
+    {
+        "id": 78,
+        "statement": "Dislike changes.",
+        "dimension": "OPE",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 79,
+        "statement": "Insult people.",
+        "dimension": "AGR",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 80,
+        "statement": "Do just enough work to get by.",
+        "dimension": "CON",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 81,
+        "statement": "Easily resist temptations.",
+        "dimension": "NEU",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 82,
+        "statement": "Enjoy being reckless.",
+        "dimension": "EXT",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 83,
+        "statement": "Have difficulty understanding abstract ideas.",
+        "dimension": "OPE",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 84,
+        "statement": "Have a high opinion of myself.",
+        "dimension": "AGR",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 85,
+        "statement": "Waste my time.",
+        "dimension": "CON",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 86,
+        "statement": "Feel that I'm unable to deal with things.",
+        "dimension": "NEU",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 87,
+        "statement": "Love life.",
+        "dimension": "EXT",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 88,
+        "statement": "Tend to vote for conservative political candidates.",
+        "dimension": "OPE",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 89,
+        "statement": "Am not interested in other people's problems.",
+        "dimension": "AGR",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 90,
+        "statement": "Rush into things.",
+        "dimension": "CON",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 91,
+        "statement": "Get stressed out easily.",
+        "dimension": "NEU",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 92,
+        "statement": "Keep others at a distance.",
+        "dimension": "EXT",
+        "subtype": "1",
+        "math": "-"
+    },
+    {
+        "id": 93,
+        "statement": "Like to get lost in thought.",
+        "dimension": "OPE",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 94,
+        "statement": "Distrust people.",
+        "dimension": "AGR",
+        "subtype": "1",
+        "math": "-"
+    },
+    {
+        "id": 95,
+        "statement": "Know how to get things done.",
+        "dimension": "CON",
+        "subtype": "1",
+        "math": "+"
+    },
+    {
+        "id": 96,
+        "statement": "Am not easily annoyed.",
+        "dimension": "NEU",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 97,
+        "statement": "Avoid crowds.",
+        "dimension": "EXT",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 98,
+        "statement": "Do not enjoy going to art museums.",
+        "dimension": "OPE",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 99,
+        "statement": "Obstruct others' plans.",
+        "dimension": "AGR",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 100,
+        "statement": "Leave my belongings around.",
+        "dimension": "CON",
+        "subtype": "2",
+        "math": "-"
+    },
+    {
+        "id": 101,
+        "statement": "Feel comfortable with myself.",
+        "dimension": "NEU",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 102,
+        "statement": "Wait for others to lead the way.",
+        "dimension": "EXT",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 103,
+        "statement": "Don't understand people who get emotional.",
+        "dimension": "OPE",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 104,
+        "statement": "Take no time for others.",
+        "dimension": "AGR",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 105,
+        "statement": "Break my promises.",
+        "dimension": "CON",
+        "subtype": "3",
+        "math": "-"
+    },
+    {
+        "id": 106,
+        "statement": "Am not bothered by difficult social situations.",
+        "dimension": "NEU",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 107,
+        "statement": "Like to take it easy.",
+        "dimension": "EXT",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 108,
+        "statement": "Am attached to conventional ways.",
+        "dimension": "OPE",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 109,
+        "statement": "Get back at others.",
+        "dimension": "AGR",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 110,
+        "statement": "Put little time and effort into my work.",
+        "dimension": "CON",
+        "subtype": "4",
+        "math": "-"
+    },
+    {
+        "id": 111,
+        "statement": "Am able to control my cravings.",
+        "dimension": "NEU",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 112,
+        "statement": "Act wild and crazy.",
+        "dimension": "EXT",
+        "subtype": "5",
+        "math": "+"
+    },
+    {
+        "id": 113,
+        "statement": "Am not interested in theoretical discussions.",
+        "dimension": "OPE",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 114,
+        "statement": "Boast about my virtues.",
+        "dimension": "AGR",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 115,
+        "statement": "Have difficulty starting tasks.",
+        "dimension": "CON",
+        "subtype": "5",
+        "math": "-"
+    },
+    {
+        "id": 116,
+        "statement": "Remain calm under pressure.",
+        "dimension": "NEU",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 117,
+        "statement": "Look at the bright side of life.",
+        "dimension": "EXT",
+        "subtype": "6",
+        "math": "+"
+    },
+    {
+        "id": 118,
+        "statement": "Believe that we should be tough on crime.",
+        "dimension": "OPE",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 119,
+        "statement": "Try not to think about the needy.",
+        "dimension": "AGR",
+        "subtype": "6",
+        "math": "-"
+    },
+    {
+        "id": 120,
+        "statement": "Act without thinking.",
+        "dimension": "CON",
+        "subtype": "6",
+        "math": "-"
+    }
+]
