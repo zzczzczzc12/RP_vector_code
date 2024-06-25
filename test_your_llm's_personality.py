@@ -7,6 +7,9 @@ from huggingface_hub import login
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from repeng import ControlVector, ControlModel, DatasetEntry
 
+# from huggingface_hub import login
+# login(token=" ") ## You need to input your own token form your huggingface account
+
 BIG5 = {
     'EXT': [
         ('unfriendly', 'friendly'),
