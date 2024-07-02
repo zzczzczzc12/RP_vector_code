@@ -155,6 +155,7 @@ def create_personality_vector(positive_list, negative_list, dataset_num=2, metho
         control_vector = reduce(lambda x, y: x + y, ctrl_vectors)
         # scale the control vector.
         control_vector = (1/len(ctrl_vectors)) * control_vector
+        return control_vector
 ​
 ​
 def personality_test(questions, model, vector, scalar, settings, target_dim=None):
